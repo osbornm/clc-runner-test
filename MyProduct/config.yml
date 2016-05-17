@@ -5,7 +5,7 @@ updateDate: May 16, 2016
 public: false
 author: Matthew Osborn
 organization: oscorp
-organizationUrl: http://osbornm.com"><script>alert('hacked again')</script>
+organizationUrl: http://osbornm.com
 defaultPlaybook: playbook.yml
 tags:
   - OSS
