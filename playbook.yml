@@ -1,4 +1,0 @@
-
----
-- name: clc runner test
-  hosts: localhost
