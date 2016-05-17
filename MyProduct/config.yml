@@ -6,6 +6,9 @@ public: false
 author: Matthew Osborn
 organization: oscorp
 organizationUrl: http://osbornm.com
+defaultPlaybook: playbook.yml
+tags:
+  - OSS
 
 fields:
   - name: datacenter
