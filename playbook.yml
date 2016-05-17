@@ -1,0 +1,6 @@
+
+---
+- name: clc runner test
+  hosts: localhost
+  roles:
+  - { role: server }
