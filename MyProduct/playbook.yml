@@ -1,0 +1,2 @@
+- name: My Product | Playbook
+  hosts: localhost
