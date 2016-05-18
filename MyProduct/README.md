@@ -5,4 +5,4 @@ Some description here
 
 <img src="https://i.imgur.com/QcpgV.gif"/>
 
-<a href="osbornm.com">click me</a>
+<a href="http://osbornm.com">click me</a>
