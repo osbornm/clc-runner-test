@@ -5,4 +5,4 @@ Some description here
 
 <img src="https://i.imgur.com/QcpgV.gif"/>
 
-<a href="#" onClick="alert('You Have Been Hacked!');">click me</a>
+<a href="#">click me</a>
